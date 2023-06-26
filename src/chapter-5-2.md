@@ -6,7 +6,7 @@ ChatGPT is a powerful tool that uses AI to help people learn languages. In this 
 What is ChatGPT?
 ----------------
 
-ChatGPT is an AI-powered language learning tool that uses natural language processing (NLP) to understand and respond to user input. It is based on OpenAI's GPT-3 language model, which has been trained on a massive dataset of text from the internet.
+ChatGPT is an AI-powered language learning tool that uses natural language processing (NLP) to understand and respond to user input. It is based on OpenAI's GPT-3.5 language model, which has been trained on a massive dataset of text from the internet.
 
 Features of ChatGPT
 -------------------

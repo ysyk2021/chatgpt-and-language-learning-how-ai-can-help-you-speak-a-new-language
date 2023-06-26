@@ -20,7 +20,7 @@ Chapter 3: The Limitations of ChatGPT for Language Learning
 
 Chapter 4: Understanding ChatGPT: What is ChatGPT?
 
-* ChatGPT is an AI-powered language learning tool based on OpenAI's GPT-3 language model.
+* ChatGPT is an AI-powered language learning tool based on OpenAI's GPT-3.5 language model.
 * ChatGPT works by analyzing input from users and generating responses based on its understanding of natural language.
 
 Chapter 5: Implementing ChatGPT in Language Learning: Case Studies of Companies that Have Successfully Implemented ChatGPT in their Language Learning Programs
