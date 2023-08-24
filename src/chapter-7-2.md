@@ -1,5 +1,3 @@
-Impact of ChatGPT on the Language Learning Industry
-========================================================================================================
 
 ChatGPT has already demonstrated its potential to transform the language learning experience, providing learners with personalized language support and access to quality language resources. As the technology continues to develop, the impact of ChatGPT on the language learning industry is likely to be significant. In this chapter, we will explore the potential impact of ChatGPT on the language learning industry.
 

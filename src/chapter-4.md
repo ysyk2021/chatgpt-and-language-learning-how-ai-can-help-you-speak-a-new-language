@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Language Learning
-===========================================================
 
 Artificial intelligence (AI) and chatbots are transforming the way we learn languages. In this chapter, we will explore the role of AI and chatbots in language learning, how they can improve language learning, and the benefits of using AI and chatbots for language acquisition.
 

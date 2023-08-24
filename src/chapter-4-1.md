@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-============================================================================================
 
 Artificial intelligence (AI) and chatbots are rapidly transforming the way we learn languages. These technologies have the potential to make language learning more personalized, efficient, and engaging by providing learners with customized language support tailored to their individual needs and preferences.
 

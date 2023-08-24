@@ -1,5 +1,3 @@
-Chapter 1: Basics of Language Learning
-======================================
 
 Language learning is the process of acquiring a new language, including its grammar, vocabulary, and communication skills. In this chapter, we will explore the definition of language learning, the importance of language learning in modern times, and the different ways to learn a new language.
 

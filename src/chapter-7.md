@@ -1,5 +1,3 @@
-Chapter 6: Future of Language Learning with ChatGPT
-===================================================
 
 ChatGPT has already revolutionized the way we learn languages, but there is still so much potential for future advancements. In this chapter, we will explore some of the exciting possibilities for language learning with ChatGPT.
 

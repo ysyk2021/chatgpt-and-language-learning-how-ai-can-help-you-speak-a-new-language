@@ -1,5 +1,3 @@
-Impact of these challenges on language acquisition
-==============================================================================================
 
 Language learning can be a challenging process, with various factors impacting an individual's ability to acquire a new language. In this chapter, we will explore some of the challenges in language learning and their impact on language acquisition.
 

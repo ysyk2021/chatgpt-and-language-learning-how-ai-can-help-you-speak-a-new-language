@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is a state-of-the-art natural language processing model developed by OpenAI. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used for language learning.
 

@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Language Acquisition
-==============================================================================================================
 
 ChatGPT can be a valuable tool for language learners, providing personalized language support and access to quality language resources. However, to effectively harness the power of ChatGPT in language acquisition, it's important to follow best practices for its use. In this chapter, we will explore some best practices for using ChatGPT in language acquisition.
 

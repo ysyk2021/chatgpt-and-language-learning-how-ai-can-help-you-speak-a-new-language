@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Language Learning
-=====================================================================================================
 
 To effectively implement ChatGPT in language learning programs, it's important to follow a set of steps to ensure that learners are receiving personalized language support and access to quality language resources. In this chapter, we will explore the steps to implement ChatGPT in language learning.
 

@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful tool that uses AI to help people learn languages. In this chapter, we will explore the features and capabilities of ChatGPT in more detail.
 

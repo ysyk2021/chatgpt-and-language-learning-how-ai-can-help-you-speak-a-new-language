@@ -1,5 +1,3 @@
-Common Challenges in Language Learning
-==================================================================================
 
 Language learning can be a challenging process, with learners facing various obstacles and difficulties. In this chapter, we will explore some of the most common challenges in language learning.
 

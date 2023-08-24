@@ -1,5 +1,3 @@
-Factors Affecting Language Learning
-===============================================================================
 
 Language learning can be a complex and challenging process, influenced by a variety of factors. In this chapter, we will explore some of the key factors that can affect language learning.
 

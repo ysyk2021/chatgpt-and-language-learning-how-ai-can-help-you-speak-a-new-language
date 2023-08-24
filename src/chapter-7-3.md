@@ -1,5 +1,3 @@
-Conclusion and future outlook
-==================================================================================
 
 ChatGPT is a powerful tool that has the potential to revolutionize the language learning industry by providing learners with accurate, efficient, and personalized language support. In this chapter, we will conclude our exploration of ChatGPT and its applications in language learning, and look towards the future of language learning with ChatGPT.
 

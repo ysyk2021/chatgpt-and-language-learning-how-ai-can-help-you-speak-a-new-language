@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-powered language learning tool that uses natural language processing (NLP) to help people learn languages. It is based on OpenAI's GPT-3.5 language model, which has been trained on a massive dataset of text from the internet.
 

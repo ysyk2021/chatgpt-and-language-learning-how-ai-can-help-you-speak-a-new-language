@@ -1,5 +1,3 @@
-Importance of Language Learning in Modern Times
-=======================================================================================
 
 In today's globalized world, language learning has become increasingly important. Knowing multiple languages can provide individuals with a competitive edge in the job market, enhance cultural understanding and communication, and facilitate travel and exploration.
 

@@ -1,5 +1,3 @@
-The Role of ChatGPT in Language Learning
-======================================================
 
 Chatbots powered by GPT (Generative Pretrained Transformer) technology have revolutionized the way we interact with technology and learn new skills. In language learning, ChatGPT can provide learners with personalized language support, access to quality language resources, and opportunities for conversational practice.
 
