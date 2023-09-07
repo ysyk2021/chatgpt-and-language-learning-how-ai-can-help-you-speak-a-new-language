@@ -10,3 +10,7 @@ By leveraging its natural language processing capabilities, ChatGPT can generate
 By the end of the book, readers will have a solid understanding of how to leverage ChatGPT's capabilities to enhance language learning, creating more engaging, immersive, and effective language learning experiences for learners around the world. Whether you are a language learner, educator, or enthusiast, this book will provide valuable insights and practical knowledge on the use of ChatGPT in language learning.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
