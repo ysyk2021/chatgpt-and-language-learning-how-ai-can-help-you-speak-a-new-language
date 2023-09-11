@@ -1,5 +1,4 @@
-Chapter 2: Different Ways to Learn a New Language
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Learning a new language can be an exciting and rewarding journey. There are multiple approaches and methods available to cater to different learning styles and preferences. In this chapter, we explore various ways individuals can embark on their language learning adventure.
 

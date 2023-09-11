@@ -1,5 +1,4 @@
-Chapter 7: Factors Affecting Language Learning
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Language learning is influenced by various factors that can shape the process and outcomes of acquiring a new language. In this chapter, we will explore some of the key factors that can impact language learning and discuss their implications for learners.
 

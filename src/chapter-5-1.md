@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced language model developed by OpenAI that utilizes state-of-the-art artificial intelligence (AI) techniques to facilitate language learning and conversation. It is a powerful tool that has revolutionized the way learners acquire and practice new languages. In this chapter, we will delve into the details of what ChatGPT is and how it works.
 

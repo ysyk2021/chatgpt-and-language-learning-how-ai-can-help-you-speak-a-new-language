@@ -1,5 +1,4 @@
-Chapter 6: Common Challenges in Language Learning
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Learning a new language can be an exciting and rewarding journey, but it also comes with its fair share of challenges. In this chapter, we will explore some of the common challenges that language learners face and discuss strategies to overcome them effectively.
 

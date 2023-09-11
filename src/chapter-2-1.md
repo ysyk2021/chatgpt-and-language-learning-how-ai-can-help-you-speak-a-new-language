@@ -1,5 +1,4 @@
-Chapter 1: Definition of Language Learning
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Language learning is the process of acquiring the skills and knowledge necessary to understand, speak, read, and write a new language. It involves the systematic study and practice of a language with the goal of becoming proficient in its use. Language learning encompasses various aspects, including vocabulary, grammar, pronunciation, cultural understanding, and communicative competence.
 

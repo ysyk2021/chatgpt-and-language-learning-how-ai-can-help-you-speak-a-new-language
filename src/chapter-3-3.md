@@ -1,5 +1,4 @@
-Chapter 8: Impact of These Challenges on Language Acquisition
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Language acquisition is a complex process influenced by various factors. In the previous chapter, we discussed the challenges and limitations of using ChatGPT in language learning. In this chapter, we will explore the impact of these challenges on language acquisition and how learners can navigate them effectively.
 

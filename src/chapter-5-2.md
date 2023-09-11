@@ -1,5 +1,4 @@
-Chapter 2: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an advanced AI language model, boasts a wide range of features and capabilities that make it an invaluable tool for language learning. In this chapter, we explore the various functionalities of ChatGPT and how they can support learners in their journey to speak a new language.
 

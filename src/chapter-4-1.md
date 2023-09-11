@@ -1,5 +1,4 @@
-Chapter 2: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) and chatbots have revolutionized various industries, including language learning. In this chapter, we provide an introduction to AI and chatbots and explore their potential in assisting language learners.
 

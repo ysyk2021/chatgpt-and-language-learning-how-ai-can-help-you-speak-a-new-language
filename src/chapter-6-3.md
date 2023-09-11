@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of Companies Implementing ChatGPT in Language Learning Programs
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine real-world case studies of companies that have successfully integrated ChatGPT into their language learning programs. These case studies highlight the practical applications and benefits of using AI-powered chatbots for language acquisition.
 

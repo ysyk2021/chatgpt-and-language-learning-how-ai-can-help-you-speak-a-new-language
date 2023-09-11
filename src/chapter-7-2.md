@@ -1,5 +1,4 @@
-Chapter 8: Impact of ChatGPT on the Language Learning Industry
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The emergence of ChatGPT has had a profound impact on the language learning industry, transforming the way learners acquire and develop proficiency in new languages. In this chapter, we explore the various ways in which ChatGPT has revolutionized the language learning landscape.
 

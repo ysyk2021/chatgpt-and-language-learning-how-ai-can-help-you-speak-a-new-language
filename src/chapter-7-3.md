@@ -1,5 +1,4 @@
-Chapter 9: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we have explored the remarkable potential of ChatGPT in transforming language learning and assisting learners in speaking a new language with confidence. As we conclude our journey, let us reflect on the impact of ChatGPT and look ahead to the future of AI in language education.
 
